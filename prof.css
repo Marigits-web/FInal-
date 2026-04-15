@@ -2,5 +2,19 @@
 .wrapper{
   max-width: 100px;
   padding: 20px;
-  
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  line-height: 1.6;
 }
+
+
+ nav ul{
+  display: flex;
+  gap: 20px;
+  background-color: bisque;
+  padding:10px;
+}
+ main{
+  display: flex;
+  gap: 40px;
+ }
+
