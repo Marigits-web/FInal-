@@ -68,10 +68,17 @@ nav a:hover{
 
  .rate-contianer{
   max-width: 100%;
-  width: 6090px;
+  width: 600px;
   height: auto;
   display: block;
   margin: 0 auto;
   border: 5px solid white;
   box-shadow: 0 4px 8px rgba(red, green, blue, alpha);
+ }
+ .top-prof{
+  max-width: 100%;
+  width:px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
  }
