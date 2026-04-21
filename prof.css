@@ -1,8 +1,12 @@
 
 .wrapper{
   max-width: 960px;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
   padding: 20px;
+  background-color: beige;
+  border: 1px solid white;
+  box-shadow: 0rem 4px 10px rgba(red, green, blue, alpha);
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
 }
@@ -25,11 +29,11 @@ nav a {
   padding: 1em 2em;
   text-transform: uppercase;
   text-decoration: none;
-  color: darkgoldenrod;
+  color: gold;
 }
 
 nav a:hover{
-  background-color: gray;
+  background-color: navajowhite;
   border-radius: 2em;
   color: beige;
 }
@@ -38,6 +42,9 @@ nav a:hover{
   display: flex;
   gap: 40px;
   margin: 35px;
+ }
+ header{
+  background-color:burlywood;
  }
  
  header h1{
