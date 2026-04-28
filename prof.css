@@ -6,7 +6,7 @@
   padding: 20px;
   background-color: beige;
   border: 1px solid white;
-  box-shadow: 0rem 4px 10px rgba(red, green, blue, alpha);
+  box-shadow: 0rem 4px 10px rgba(0, 0, 0, 0.2);
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
 }
@@ -73,7 +73,7 @@ nav a:hover{
   display: block;
   margin: 0 auto;
   border: 5px solid white;
-  box-shadow: 0 4px 8px rgba(red, green, blue, alpha);
+  box-shadow: 0 4px 8px rgba(0 0, 0, 0.2);
  }
  .top-prof{
   max-width: 100%;
