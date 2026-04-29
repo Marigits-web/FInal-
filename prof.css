@@ -89,3 +89,34 @@ nav a:hover{
   display: block;
   margin: 0 auto;
  }
+
+ .columns-container{
+  display: flex;
+  gap: 20px;
+ }
+
+ .bad-prof{
+  flex: 1;
+  background: #f9f9f9;
+  padding: 15px;
+  border-top: 4px solid #cc0000;
+ }
+
+ .good-prof{
+  flex: 1;
+  background: #f9f9f9;
+  padding: 15px;
+  border-top: 4px solid green;
+ }
+
+ .bad-review.png{
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 10px;
+ }
+
+ h3{
+  font-size: 1.2rem;
+  
+ }
