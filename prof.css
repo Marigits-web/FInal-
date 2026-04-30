@@ -4,14 +4,14 @@
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
-  background-color: beige;
-  border: 1px solid white;
+  background-color: #f0f4f8;
+  border: 1px solid #003087;
   box-shadow: 0rem 4px 10px rgba(0, 0, 0, 0.2);
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.6;
 }
 body{
-  background-color:beige ;
+  background-color:white;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -33,9 +33,9 @@ nav a {
 }
 
 nav a:hover{
-  background-color: navajowhite;
+  background-color: #ffd700;
   border-radius: 2em;
-  color: beige;
+  color: #003087;
 }
 
  main{
@@ -45,12 +45,14 @@ nav a:hover{
   padding: 10px;
  }
  header{
-  background-color:burlywood;
+  background-color:#003087;
  }
  
  header h1{
   text-align: center;
-  font-size: 100%;
+  font-size: 1.8rem;
+  color: #ffd700;
+  padding: 1rem;
 
  }
 
