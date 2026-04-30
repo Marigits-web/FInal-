@@ -85,11 +85,17 @@ nav a:hover{
   box-shadow: 0 4px 8px rgba(0 0, 0, 0.2);
  }
  .top-prof{
-  max-width: 100%;
-  width:600px;
+  max-width: 500%;
+  width:100%;
   height: auto;
   display: block;
-  margin: 0 auto;
+  margin: 20px auto;
+ }
+
+ .top-prof img{
+  width: 100%;
+  height: auto;
+  display: block;
  }
 
  .columns-container{
