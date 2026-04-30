@@ -109,7 +109,13 @@ nav a:hover{
   border-top: 4px solid green;
  }
 
- .bad-review.png{
+ .bad-prof img{
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 10px;
+ }
+ .good-prof img{
   width: 100%;
   height: auto;
   display: block;
@@ -118,5 +124,6 @@ nav a:hover{
 
  h3{
   font-size: 1.2rem;
-  
+  margin-bottom:8px ;
+  color: #5a3e1b;
  }
